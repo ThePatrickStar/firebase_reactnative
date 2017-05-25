@@ -1,0 +1,3 @@
+rootProject.name = 'Whatswap'
+
+include ':app'
